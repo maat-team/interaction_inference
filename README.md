@@ -1,3 +1,4 @@
 # Interaction Inference
 
-Share sample interactions under folder Samples/
+Shared sample interactions under folder samples/
+
